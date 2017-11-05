@@ -1,0 +1,15 @@
+{
+  "name": "centraldeseguridad",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
